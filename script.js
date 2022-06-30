@@ -10,7 +10,7 @@ const inputElevation = document.querySelector('.form__input--elevation');
 const selectionRunning = document.querySelector('option[value="running"]');
 
 class Workout {
-  // clicks = 0;
+  clicks = 0;
   constructor(coords, duration, distance) {
     this.date = new Date();
     this.id = (Date.now() + '').slice(-10);
