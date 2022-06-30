@@ -12,4 +12,5 @@ A website logging your workout event (running or cycling).
 
 1. delete event.
 2. edit event.
-3.
+3. sort event by type, duration or distance.
+4. showing all the marker on map.
