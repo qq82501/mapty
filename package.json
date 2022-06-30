@@ -4,6 +4,7 @@
   },
   "name": "starter",
   "version": "1.0.0",
+  "homepage": "https://qq82501.github.io/mapty",
   "main": "script.js",
   "type": "module",
   "devDependencies": {},
